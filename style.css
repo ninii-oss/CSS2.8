@@ -1,0 +1,72 @@
+* {
+    padding: 0%;
+    margin: auto;
+    width: 100%;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+#main {
+    border: solid #FFAEAF 30px;
+}
+
+#header {
+    width: 1280px;
+    padding: 0px, 32px, 0px, 32px;
+}
+
+#ourblog {
+    text-align: center;
+    font-weight: 600;
+    width: 1216px;
+    font-family: "inter", sans-serif;
+    padding: 3%;
+    color: #ED00A6;
+}
+
+#resource {
+    color: #181D27;
+    font-weight: 600;
+    width: 1216px;
+    font-size: 48px;
+    text-align: center;
+    font-family: "inter", sans-serif;
+}
+
+#news {
+    text-align: center;
+    color: #535862;
+    font-family: 20px;
+    font-family: "inter", sans-serif;
+    font-weight: 400;
+    padding: 20px;
+}
+
+#firstPhoto {
+    width: 1280px;
+}
+
+#fistImage {
+    margin-top: 10%;
+    margin-left: 7%;
+    width: 600px;
+}
+
+#secondPhoto {
+    width: 1280px;
+}
+
+#secondImage {
+    width: 600px;
+    margin: 10% 36%;
+}
+
+#thirdPhoto {
+    width: 1280px;
+}
+
+#thirdImage {
+    margin-left: 7%;
+    margin-bottom: 5%;
+    width: 592px;
+}
